@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.example.networktest.app.MainActivity" >
+    <item android:id="@+id/action_do_task"
+        android:title="do_task1"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_do_tas2"
+        android:title="do_task2"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_do_task3"
+        android:title="do_task3"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>
